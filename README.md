@@ -1,4 +1,4 @@
-# VTS LLM Chatbot
+# VTS LLM ChatBot 🤖
 
 The **VTS LLM Chatbot** is a advanced interactive application that harnesses the power of Google Generative AI and Streamlit to offer engaging and versatile conversations. Designed to handle multimodal inputs and outputs, this chatbot provides users with a dynamic experience, supporting text and image interactions, and features customizable responses and robust language support.
 
@@ -15,7 +15,12 @@ The **VTS LLM Chatbot** is a advanced interactive application that harnesses the
 - **Clear Chat History:** Reset chat sessions to start fresh with cleared history.
 
 ## 📷 Chatbot Interface
+**User Input & Customization**
+
 ![1](https://github.com/user-attachments/assets/f48aff5b-9de7-4df5-9757-538f3d426553)
+
+**Generated Response**
+
 ![2](https://github.com/user-attachments/assets/bc6fa76f-e6ec-4a32-9770-269f18f976e4)
 ![3](https://github.com/user-attachments/assets/c7f0b2ad-b55f-42a3-b61a-1a75606356c4)
 
@@ -34,8 +39,8 @@ The **VTS LLM Chatbot** is a advanced interactive application that harnesses the
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/vts-llm-chatbot.git
-   cd vts-llm-chatbot
+   git clone https://github.com/CodeWizardl/VTS-LLM-ChatBot.git
+   cd VTS-LLM-ChatBot
    ```
 
 2. **Install Dependencies:**
@@ -74,3 +79,7 @@ The **VTS LLM Chatbot** is a advanced interactive application that harnesses the
 ## 📚 Conclusion
 
 The VTS LLM Chatbot represents a significant leap forward in AI-driven interactive applications. It combines advanced AI capabilities with an intuitive interface, providing a comprehensive suite of features for a rich and interactive chatbot experience. This project lays the groundwork for future enhancements and scalability, aiming to deliver an exceptional user experience.
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
